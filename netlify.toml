@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+  command = ""
+
+# For single-page apps you can add:
+# [[redirects]]
+#   from = "/*"
+#   to = "/index.html"
+#   status = 200
